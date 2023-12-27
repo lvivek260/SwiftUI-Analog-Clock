@@ -22,10 +22,6 @@ An elegant and interactive analog clock built using SwiftUI, showcasing the curr
 - **SwiftUI:** Utilizes SwiftUI for a declarative and modern UI framework.
 - **Swift:** The project is written in Swift, a powerful and intuitive programming language.
 
-## Screenshots
-
-Include screenshots of your project to showcase its visual appearance.
-
 ## Video
 
 https://github.com/lvivek260/SwiftUI-Analog-Clock/assets/111556464/534d23ca-f2c6-4f6e-bc40-ad9770d49dea
